@@ -1,4 +1,4 @@
 name(Linux),name(Mac/Windows),name_zh,url
-dedacrm,DEDACRM,DEDACRM,https://crm.deda.gr
-dedasuppliers,DEDASUPPLIERS,https://suppliers.deda.gr
-asfaults,ASFAULTS,https://as-front.evolution-isa.gr
+code,DEDACRM,DEDACRM,https://crm.deda.gr
+tool,DEDASUPPLIERS,https://suppliers.deda.gr
+reference,ASFAULTS,https://as-front.evolution-isa.gr
